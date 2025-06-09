@@ -1,0 +1,32 @@
+#!/usr/bin/env node
+
+console.log("🚀 MCP 测试项目演示");
+console.log("=".repeat(40));
+console.log("");
+console.log("本项目演示了 Model Context Protocol (MCP) 的三个核心功能:");
+console.log("");
+console.log("📄 Resources (资源):");
+console.log("  - test://users     - 用户列表数据");
+console.log("  - test://todos     - 待办事项数据");
+console.log("  - test://config    - 系统配置信息");
+console.log("  - test://logs      - 操作日志");
+console.log("");
+console.log("🔧 Tools (工具):");
+console.log("  - add_user         - 添加新用户");
+console.log("  - search_users     - 搜索用户");
+console.log("  - create_todo      - 创建待办事项");
+console.log("  - calculate        - 数学计算");
+console.log("");
+console.log("💬 Prompts (提示模板):");
+console.log("  - user_analysis    - 用户数据分析");
+console.log("  - todo_summary     - 待办事项摘要");
+console.log("  - system_report    - 系统状态报告");
+console.log("  - code_review      - 代码审查模板");
+console.log("");
+console.log("使用方法:");
+console.log("1. 启动服务器: npm start");
+console.log("2. 运行测试:   npm test");
+console.log("");
+console.log("项目基于 MCP TypeScript SDK 构建");
+console.log("GitHub: https://github.com/modelcontextprotocol/typescript-sdk");
+console.log(""); 
