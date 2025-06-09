@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mcp-test-project": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "cwd": "/Users/yutou-air/code/mcp-test",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+} 

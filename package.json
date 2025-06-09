@@ -4,6 +4,9 @@
   "description": "MCP测试项目 - 用于测试resources、tools、prompts等机制",
   "main": "dist/index.js",
   "type": "module",
+  "bin": {
+    "mcp-test-project": "./dist/index.js"
+  },
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
