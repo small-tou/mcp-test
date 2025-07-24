@@ -2,6 +2,10 @@
 
 这是一个基于 [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/typescript-sdk) TypeScript SDK 的测试项目，用于演示和测试 MCP 的不同机制，包括 Resources、Tools 和 Prompts。
 
+<a href="https://glama.ai/mcp/servers/@small-tou/mcp-test">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@small-tou/mcp-test/badge" alt="Test Server MCP server" />
+</a>
+
 ## 项目特性
 
 ### 📄 Resources (资源)
@@ -176,4 +180,4 @@ MIT License
 
 - [MCP 官方文档](https://modelcontextprotocol.io)
 - [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)
-- [MCP 规范](https://spec.modelcontextprotocol.io/) 
+- [MCP 规范](https://spec.modelcontextprotocol.io/)
